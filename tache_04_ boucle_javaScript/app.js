@@ -2,6 +2,7 @@
 
  let a;
  
+
  do{
      a=prompt("Saisir un nmbre entier");
  }while(isNaN(a) || a%1!==0);
