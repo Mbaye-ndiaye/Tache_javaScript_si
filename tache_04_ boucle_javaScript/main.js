@@ -1,6 +1,6 @@
 // La definition des boucles 
 
-let boucles = prompt('Saisir un boucle');
+let boucles = prompt('Saisir une boucle');
 
 if('while') {
     alert(`nous permettre de répéter une série d’instructions
