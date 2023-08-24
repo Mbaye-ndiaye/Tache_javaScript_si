@@ -12,10 +12,10 @@ mois.push('aoùt');
 
 // document.write(mois)
 
-/* remplacer la valeur 'fevrier' par 'fevrier'
+/* remplacer la valeur 'fevrier' par 'fevrier' ||
 supprimer une valeur && et ajouter une valeur a sa palce
 */
-mois.splice(1,1, 'fevrier')
+mois.splice(1, 1, 'fevrier')
 // document.write(mois)
 
 // afficher la troisieme valeur du tableau
