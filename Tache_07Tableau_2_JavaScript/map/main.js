@@ -13,5 +13,18 @@ let newarr = nombres.map(maFonction)
 
 console.log({newarr});
 
-// 2-
+
+
+// Utilisez la tableau.reduce() pour resumer tous les nombres dans un tableau
+
+
+
+
+
+     
+
+    
+
+
+
 
